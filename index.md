@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 
   <head>
@@ -19,7 +18,7 @@
 	<p><center> <img src = "https://opimedia.azureedge.net/-/media/images/men/editorial/articles/magazine-articles/1997/02-01/build-easy-to-assemble-low-cost-ultralight-aircraft-from-kits/160-78-i2.jpg">
 				<img src = "https://opimedia.azureedge.net/-/media/images/men/editorial/articles/magazine-articles/1997/02-01/build-easy-to-assemble-low-cost-ultralight-aircraft-from-kits/160-78-i4.jpg">
 				<img src = "https://opimedia.azureedge.net/-/media/images/men/editorial/articles/magazine-articles/1997/02-01/build-easy-to-assemble-low-cost-ultralight-aircraft-from-kits/ultralightresemblesconventionalaircraft.jpg">
-				<img src = "https://opimedia.azureedge.net/-/media/images/men/editorial/articles/magazine-articles/1997/02-01/build-easy-to-assemble-low-cost-ultralight-aircraft-from-kits/ultralightlandinggear.jpg"><center></p>
+				<img src = "https://opimedia.azureedge.net/-/media/images/men/editorial/articles/magazine-articles/1997/02-01/build-easy-to-assemble-low-cost-ultralight-aircraft-from-kits/ultralightlandinggear.jpg"><center>
 				
     <div>Although the fear of flying is a fairly common phobia, there are individuals on the other end of the spectrum who will do everything within their power to get up in the air.
 		 While commercial airliners have come far in the past few decades with advanced flying and safety features, <strong>homebuilt</strong> or <strong>"kit"</strong> planes are still 
@@ -39,6 +38,4 @@
 		 performance than the typical Cessna airplane. John's ambitious idea led to a homebuilt aircraft that was not only the exact type
 		 of plane he wanted, the the type of plane other enthusiasts were looking for as well.
 	</div><br>
-  </body>
   
-</html>
