@@ -30,7 +30,7 @@
 		 can apply for a repairman's certificate for that airframe, allowing him/her to complete necessary maintencance procedures and repairs themselves.
 	</div><br>
 	
-		<p><center> <img src = "https://thumbs-prod.si-cdn.com/E8YOhF70Eeix8vOBvadIlT5gldE=/800x600/filters:no_upscale():focal(2035x1048:2036x1049)/https://public-media.si-cdn.com/filer/8b/72/8b72ea6e-4cf9-4fad-b58c-dbc5094ba725/08-2d_as2021_dykedeltahomebuilt_dykedeltan18dw_0013_live.jpg"><center></p>
+		<p><center> <img src = "https://thumbs-prod.si-cdn.com/E8YOhF70Eeix8vOBvadIlT5gldE=/800x600/filters:no_upscale():focal(2035x1048:2036x1049)/https://public-media.si-cdn.com/filer/8b/72/8b72ea6e-4cf9-4fad-b58c-dbc5094ba725/08-2d_as2021_dykedeltahomebuilt_dykedeltan18dw_0013_live.jpg"><center>
 	
 	<div>Some homebuilt aircraft enthusiasts spend their entires lives researching and designing plans for their own aircraft. One man,
 	<a href="https://www.airspacemag.com/flight-today/some-homebuilt-airplanes-create-business-one-created-family-180978276" target="_blank">John Dyke</a>,
