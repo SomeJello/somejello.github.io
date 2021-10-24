@@ -1,31 +1,57 @@
-
+<!DOCTYPE>
 <html>
-	<head>
-		<title>Fancify Shamcify</title>
+  <head>
+    <title>Encrypt-It!</title>
+    <link rel="stylesheet" href="style.css">
+	<script src="encrypt-it.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>Encrypt-It!</h1>
+      <h2>Translate any text message into a super-secret cipher!</h2>
+    </header>
+    <main>
+      <fieldset>
+        <legend>Text to Encrypt</legend>
+        <textarea id="input-text" rows="10" cols="60" 
+         placeholder="Enter your message to encrypted here"></textarea>
+      </fieldset>
+      <fieldset>
+        <legend>Encrypt Options</legend>
 
-		<script src="fancifymytext.js"></script>
-		
-	</head>
+        <p>
+          <strong>Cipher Type: </strong>
+          <select id="cipher-type">
+            <option value="shift">Shift Cipher</option>
+            <option value="random">Randomized</option>
+          </select>
+        </p>
 
-	<body>
-		<h1>Fancify my Text</h1>
-		
+        <p>
+          <strong>Font Size: </strong>
+          <label>
+            <input id="12ptFont" checked type="radio" name="text-size" value="12pt">12pt</input>
+          </label>
+          <label>
+            <input id="24ptFont" type="radio" name="text-size" value="24pt">24pt</input>
+          </label>
+        </p>
+        
+        <p>
+          <label>
+            <strong>All-Caps:</strong>
+            <input id="all-caps" type="checkbox" name="uppercase-ouput" value="uppercase"/>
+          </label>
+        </p>
 
-		<form>
-		<fieldset style="text-align:center">
-			<legend>Text</legend>
-			<textarea id="textArea" rows = "4" cols="30"></textarea>
-		</fieldset>
-		<fieldset style="text-align:center">
-			<legend>Fancify</legend>
-			<button onclick="changeTextSize()" type="button" id="bigger" name="button">Bigger!</button>
-			<button onclick="mooText()" type="button" id="moo" name="button">Moo</button>
-			<input onclick="changeTextBold()" type="radio" id="fancyShmancy" name="button">
-			<label for="fancyShmancy">Fancy Shmancy</label>
-			<input onclick="changeTextNormal()" type="radio" id="boringBetty" name="button">
-			<label for="boringBetty">Boring Betty</label>
-		</fieldset>
-		</form>
-		
-	</body>
+        <button id="encrypt-it">Encrypt It!</button>
+        <button id="reset">Reset</button>
+      </fieldset>
+
+      <div id="result-area">
+        <h2>Result:</h2>
+        <p id="result"></p>
+      </div>
+    </main>
+  </body>
 </html>
