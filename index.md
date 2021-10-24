@@ -29,10 +29,10 @@
         <p>
           <strong>Font Size: </strong>
           <label>
-            <input id="12ptFont" checked type="radio" name="text-size" value="12pt">12pt</input>
+            <input id="12ptFont" checked type="radio" name="text-size" value="12pt">12pt
           </label>
           <label>
-            <input id="24ptFont" type="radio" name="text-size" value="24pt">24pt</input>
+            <input id="24ptFont" type="radio" name="text-size" value="24pt">24pt
           </label>
         </p>
         
